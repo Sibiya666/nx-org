@@ -8,4 +8,8 @@ import { NxWelcomeComponent } from './nx-welcome.component';
   selector: 'si-ola-entry',
   template: `<si-nx-welcome></si-nx-welcome>`,
 })
-export class RemoteEntryComponent {}
+export class RemoteEntryComponent {
+  constructor() {
+    console.log('ola');
+  }
+}
