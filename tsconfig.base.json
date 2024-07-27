@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "cora/Routes": ["apps/cora/src/app/remote-entry/entry.routes.ts"],
       "ola/Routes": ["apps/ola/src/app/remote-entry/entry.routes.ts"]
     }
   },
