@@ -5,11 +5,11 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 @Component({
   standalone: true,
   imports: [CommonModule, NxWelcomeComponent],
-  selector: 'si-ola-entry',
-  template: `<si-nx-welcome></si-nx-welcome>`,
+  selector: 'si-cora-cora-entry',
+  template: `<si-cora-nx-welcome></si-cora-nx-welcome>`,
 })
 export class RemoteEntryComponent {
   constructor() {
-    console.log('ola');
+    console.log('remote entry component1');
   }
 }
