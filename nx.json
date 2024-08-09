@@ -67,7 +67,7 @@
       "style": "css"
     }
   },
-  "nxCloudAccessToken": "ODFjNDkzMzctZTViMS00ZGExLTgzZGUtOTJmNTUzZjZiMGVhfHJlYWQtd3JpdGU=",
+  "neverConnectToCloud": true,
   "plugins": [
     {
       "plugin": "@nx/playwright/plugin",

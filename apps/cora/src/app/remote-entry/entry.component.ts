@@ -10,6 +10,6 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 })
 export class RemoteEntryComponent {
   constructor() {
-    console.log('remote entry component');
+    console.log('remote entry component1');
   }
 }
